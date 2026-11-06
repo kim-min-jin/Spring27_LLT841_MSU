@@ -81,3 +81,12 @@ body {
 h1 {
   letter-spacing: -1px;
 }
+
+.course-intro p {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.topic {
+  font-size: 14px;
+}
